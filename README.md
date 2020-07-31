@@ -5,7 +5,7 @@ About: The files in this repository constitute a multi-approach and multi-scale 
 
 Execution: Running the main.m file within the MATLAB environment will start a stochastic simulation of CD4+ T cells responding to the input signals defined in antigen.mat. Note that all the files in the repository must be placed in the same directory as the main.m file during a simulation.
 
-Copyright: University of Nebraska–Lincoln.
+Copyright: Helikar Lab, University of Nebraska–Lincoln.
 
 Licence: GNU General Public License v3.0.
 
